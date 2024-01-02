@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/yuhongru/code/git/mprpc/src/mprpcapplication.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/yuhongru/code/git/mprpc/src/mprpcconfig.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/yuhongru/code/git/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/yuhongru/code/git/mprpc/src/rpcprovider.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/yuhongru/code/git/mprpc/src/mprpcchannel.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/yuhongru/code/git/mprpc/src/mprpccontroller.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/yuhongru/code/git/mprpc/src/logger.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/src",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/yuhongru/code/git/mprpc/src/zookeeperutil.cc",
+  "file": "/home/yuhongru/code/git/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/yuhongru/code/git/mprpc/example/callee/friendservice.cc",
+  "file": "/home/yuhongru/code/git/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/yuhongru/code/git/mprpc/example/friend.pb.cc",
+  "file": "/home/yuhongru/code/git/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/yuhongru/code/git/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/yuhongru/code/git/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/yuhongru/code/git/mprpc/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/yuhongru/code/git/mprpc/src/include -I/home/yuhongru/code/git/mprpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/yuhongru/code/git/mprpc/example/friend.pb.cc",
+  "file": "/home/yuhongru/code/git/mprpc/example/friend.pb.cc"
+}
+]
